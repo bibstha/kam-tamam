@@ -9,6 +9,7 @@ built in. Specially learning to create a small database based application like a
 combination of django and python would be a great choice.
 
 [[Link Text|WikiPage]]
+[Link Text](Link Text)
 
 ## Installation
 
