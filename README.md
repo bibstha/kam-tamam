@@ -8,8 +8,7 @@ Django is a web application framework made on top of python. Django itself is al
 built in. Specially learning to create a small database based application like a 'todo' manager with minimum database requirements,
 combination of django and python would be a great choice.
 
-[[Link Text|WikiPage]]
-[Link Text](Link Text)
+[Task1:Installation](doc/Task1.md)
 
 ## Installation
 
