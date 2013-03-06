@@ -27,4 +27,7 @@ Participate in the project kam-tamam [https://github.com/bibstha/kam-tamam].
 
 Clone the repository
 
+    $ git clone git@github.com:bibstha/kam-tamam.git
+    $ cd kam-tamam
+
 Create a random file inside **temp** folder and do first commit
