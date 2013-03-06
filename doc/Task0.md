@@ -9,10 +9,12 @@ Prepare your private / public keys. For this step, first look if you already hav
     $ ls ~/.ssh/id_rsa*
 
 If the output of the above command gives
+    
     id_rsa
     id_rsa.pub
 
 Then you have your keys. If it gives you *No such file or directory* error then you should create your files using the following command
+    
     $ ssh-keygen -trsa
 
 This command should create the two files above. Make sure they exist now.
