@@ -7,6 +7,19 @@
 
 **Installation process**
 
+Make sure your python version is proper
+
+    $ python --version
+    Python 2.7.3
+
+If it says 2.7.X, then you can run django. Otherwise install python2. Sometimes the executable is called python2
+
+    $ python2 --version
+
+or
+
+    $ python2.7
+
 If virtualenv has not been created yet, create one
 
     $ virtualenv ~/app/djangoapp
